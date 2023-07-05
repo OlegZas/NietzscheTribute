@@ -1,2 +1,3 @@
 # NietzscheTribute
-A tribute page for Nietzsche (2020)
+
+This is a simple one page website which I've done long time ago. 
